@@ -1,0 +1,23 @@
+p {
+    background-color: rgba(249, 117, 117, 0.6);
+    font-weight: bold;
+}
+
+.one {
+    font-size: 22px;
+}
+
+#two {
+    color: blue;
+    font-size: 48px;
+}
+
+.three {
+    font-size: 32px;
+}
+
+#four {
+    background-color: green;
+    font-weight: bold;
+    font-size: 32px;
+}
